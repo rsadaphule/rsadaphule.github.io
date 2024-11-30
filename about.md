@@ -27,15 +27,6 @@ Silicon Valley engineering leader with extensive R&D experience in Artificial In
 - **Visit LinkedIn Profile** (https://www.linkedin.com/in/ravinds/)
 - **University of San Francisco AI Advisor :** (https://profed.usfca.edu/ravindra-sadaphule.html)
 
-## Awards, Patents, Credits
-- **Photoshop Developer Attribution** <img src="https://rsadaphule.github.io/assets/images/Award_Photoshop.jpeg" alt="Ravindra Sadaphule" width="50" height="50" style=".rounded">
-- **Bing User Search Engagement award** <img src="https://rsadaphule.github.io/assets/images/Award_bing.jpeg" alt="Ravindra Sadaphule" width="50" height="50" style=".rounded">
-- **MSN and Bing ship Award** <img src="https://rsadaphule.github.io/assets/images/Award_MSN_Bing_01.jpeg" alt="Ravindra Sadaphule" width="50" height="50" style=".rounded">
-- **Sharepoint Ship** <img src="https://rsadaphule.github.io/assets/images/Award_Sharpoint.jpeg" alt="Ravindra Sadaphule" width="50" height="50" style=".rounded">
-
-
-
-
 ## Key Highlights in AI Field
 - **AI Platforms:** Built and led AI-powered RAG search and recommendation platforms for Adobe Express, Photoshop, and Adobe Stock.
 - **Agentic AI:** Powered “For You” Agentic AI recommendations using multi-modal intent detection, VLM, LLM, and creative knowledge graphs.
@@ -63,6 +54,9 @@ Silicon Valley engineering leader with extensive R&D experience in Artificial In
 - **Other Tools:** Hadoop, Kubernetes, Mesos.
 
 ---
+## Awards, Patents, Credits
+
+
 
 ## Education and Certifications
 - **M.S. in Artificial Intelligence:** Johns Hopkins University.
@@ -75,13 +69,15 @@ Silicon Valley engineering leader with extensive R&D experience in Artificial In
 ## Awards and Publications
 - **Awards:**
   - Gold Star Award (Microsoft) – Twice.
+  - Photoshop Developer Attribution (https://rsadaphule.github.io/assets/images/Award_Photoshop.jpeg)
+  - Bing User Search Engagement award (https://rsadaphule.github.io/assets/images/Award_bing.jpeg)
+  - MSN and Bing ship Award (https://rsadaphule.github.io/assets/images/Award_MSN_Bing_01.jpeg)
+  - Sharepoint Ship (https://rsadaphule.github.io/assets/images/Award_Sharpoint.jpeg)
 - **Publications:**
   - "Latent Diffusion Model"
   - "Demystifying Scalability"
 - **Patents:**
-  - Contextual recommendations in digital content editing.
-
----
+  - US11645095 ·Contextual recommendations in digital content editing. -  Issued May 19, 2023
 
 ## Experience
 
@@ -91,7 +87,19 @@ Silicon Valley engineering leader with extensive R&D experience in Artificial In
 - **ML Engineering:** Powered generative text and computer vision-based search solutions for Adobe products.
 - **Scalable Architectures:** Developed scalable architectures for semantic search and multi-modal intent detection platforms.
 
-### Detailed Resume is available [here](https://drive.google.com/file/d/1DUOdc8ME5MtV-h5lq66tN_tQRGfEpGpn/view?usp=sharing)
+
+### Senior Engineer Manager | Intuit | Mountain View, CA (2016 – 2017)
+- Transformed QuickBooks Online technology using AWS-based microservices architecture.
+-	Designed deep learning-powered search solutions and sales growth platforms.
+-	Enhanced scalability, availability, and performance through innovative architecture.
+
+### Engineering Manager | Microsoft | Mountain View, CA (2008  – 2016)
+-	Led global teams for Bing, Office apps, and Cortana recommendation systems.
+-	Built real-time data ingestion pipelines and developed personalized search experiences.
+-	Improved MSN homepage scalability using distributed caching and analytics platforms.
+-	Developed enterprise search for SharePoint and optimized performance of large-scale data systems.
+
+## Detailed Resume is available [here](https://drive.google.com/file/d/1DUOdc8ME5MtV-h5lq66tN_tQRGfEpGpn/view?usp=sharing)
 
 
  
