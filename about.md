@@ -1,13 +1,13 @@
 <img src="https://rsadaphule.github.io/assets/images/self_passport_photo.jpeg" alt="Ravindra Sadaphule" width="200" height="200">
 
-## My Blog Home Page
-[Read my blog on Medium](https://medium.com/@rsadaphule)
+## Blog Home Page
+[Medium](https://medium.com/@rsadaphule)
 
-## My Podcasts
-- **On Apple Podcasts:** [Listen here](https://podcasts.apple.com/us/podcast/ravindra-sadaphules-podcast/id1749202752)
-- **On Spotify:** [Listen here](https://open.spotify.com/show/4icwsteok7wCviZm6ePLZl)
+## Podcasts
+- **Apple Podcasts:** [Listen here](https://podcasts.apple.com/us/podcast/ravindra-sadaphules-podcast/id1749202752)
+- **Spotify:** [Listen here](https://open.spotify.com/show/4icwsteok7wCviZm6ePLZl)
 
-## My LinkedIn Profile
+## LinkedIn Profile
 [Visit LinkedIn Profile](https://www.linkedin.com/in/ravinds/)
 
 ---
