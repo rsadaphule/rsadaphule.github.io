@@ -1,8 +1,14 @@
 ## Summary
 Director of Engineering | LLM, VLM, Agentic RAG, Generative AI | Stanford GSB | M.S. (Artificial Intelligence) from Johns Hopkins | MBA (Information Technology) from American Public University | AI Technology Advisor
 
+
 ##
 <img src="https://rsadaphule.github.io/assets/images/self_passport_photo.jpeg" alt="Ravindra Sadaphule" width="200" height="200" style=".rounded">
+
+## Career Summary
+Silicon Valley engineering leader with extensive R&D experience in Artificial Intelligence. Expertise in LLM, VLM, Multi-Modal AI, graph-based and agentic Retrieval-Augmented Generation (RAG), and Generative AI. Skilled in driving product innovation in AI-powered personalized assistance, search, and recommendations. Proven track record of developing scalable AI-powered GPU-based solutions, leading global teams, and transforming technology ecosystems.
+
+---
 
 ## Blog Home Page
 [Medium](https://medium.com/@rsadaphule)
@@ -21,11 +27,9 @@ Director of Engineering | LLM, VLM, Agentic RAG, Generative AI | Stanford GSB | 
 - **Visit LinkedIn Profile** (https://www.linkedin.com/in/ravinds/)
 - **University of San Francisco AI Advisor :** (https://profed.usfca.edu/ravindra-sadaphule.html)
 
+## Awards, Patents, Credits
 
-## Career Summary
-Silicon Valley engineering leader with extensive R&D experience in Artificial Intelligence. Expertise in LLM, VLM, Multi-Modal AI, graph-based and agentic Retrieval-Augmented Generation (RAG), and Generative AI. Skilled in driving product innovation in AI-powered personalized assistance, search, and recommendations. Proven track record of developing scalable AI-powered GPU-based solutions, leading global teams, and transforming technology ecosystems.
 
----
 
 ## Key Highlights in AI Field
 - **AI Platforms:** Built and led AI-powered RAG search and recommendation platforms for Adobe Express, Photoshop, and Adobe Stock.
