@@ -69,10 +69,10 @@ Silicon Valley engineering leader with extensive R&D experience in Artificial In
 ## Awards and Publications
 - **Awards:**
   - Gold Star Award (Microsoft) – Twice.
-  - Photoshop Developer Attribution (https://rsadaphule.github.io/assets/images/Award_Photoshop.jpeg)
-  - Bing User Search Engagement award (https://rsadaphule.github.io/assets/images/Award_bing.jpeg)
-  - MSN and Bing ship Award (https://rsadaphule.github.io/assets/images/Award_MSN_Bing_01.jpeg)
-  - Sharepoint Ship (https://rsadaphule.github.io/assets/images/Award_Sharpoint.jpeg)
+  - [Photoshop Developer Attribution] (https://rsadaphule.github.io/assets/images/Award_Photoshop.jpeg)
+  - [Bing User Search Engagement award] (https://rsadaphule.github.io/assets/images/Award_bing.jpeg)
+  - [MSN and Bing ship Award](https://rsadaphule.github.io/assets/images/Award_MSN_Bing_01.jpeg)
+  - [Sharepoint Ship Award](https://rsadaphule.github.io/assets/images/Award_Sharpoint.jpeg)
 - **Publications:**
   - "Latent Diffusion Model"
   - "Demystifying Scalability"
