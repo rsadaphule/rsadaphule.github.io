@@ -12,14 +12,14 @@ Director of Engineering | LLM, VLM, Agentic RAG, Generative AI | Stanford GSB | 
 - **Spotify:** [Listen here](https://open.spotify.com/show/4icwsteok7wCviZm6ePLZl)
 
 ## vLog
-- **What;s latest in AI : [Watch here]([https://www.youtube.com/playlist?list=PLUoxJpkNeGtChjZ4oyKMQ5ywQeByNNB4b]
-- **Diffusion Models : [Watch here](https://www.youtube.com/watch?v=XtKyblwwBhU&list=PLUoxJpkNeGtBXENtervxTzg3aErpBjgvH)
-- **Deep Learning Basics [Watch here](https://www.youtube.com/watch?v=St7HV_WYSl0&list=PLUoxJpkNeGtDU2q_GBS6IlCndmbg61vv9)
-- **Leadership and Motivation [Watch here](https://www.youtube.com/watch?v=IreFLUDRhoc&list=PLUoxJpkNeGtBuGAKUuuG-3ydFqnOewy8b)
+- **What is latest in AI :** [Watch here](https://www.youtube.com/playlist?list=PLUoxJpkNeGtChjZ4oyKMQ5ywQeByNNB4b)
+- **Diffusion Models :** [Watch here](https://www.youtube.com/watch?v=XtKyblwwBhU&list=PLUoxJpkNeGtBXENtervxTzg3aErpBjgvH)
+- **Deep Learning Basics:** [Watch here](https://www.youtube.com/watch?v=St7HV_WYSl0&list=PLUoxJpkNeGtDU2q_GBS6IlCndmbg61vv9)
+- **Leadership and Motivation:** [Watch here](https://www.youtube.com/watch?v=IreFLUDRhoc&list=PLUoxJpkNeGtBuGAKUuuG-3ydFqnOewy8b)
 
 ## Professional Network
-[Visit LinkedIn Profile](https://www.linkedin.com/in/ravinds/)
-
+- **Visit LinkedIn Profile** (https://www.linkedin.com/in/ravinds/)
+- **University of San Francisco AI Advisor :** (https://profed.usfca.edu/ravindra-sadaphule.html)
 
 
 ## Career Summary
