@@ -7,6 +7,7 @@
 - MBA (Information Technology) from American Public University 
 - Also serves as AI Technology Advisor
 ---
+
 ## Digital Storytelling 
 
 ### Blog
