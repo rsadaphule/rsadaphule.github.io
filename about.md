@@ -18,7 +18,7 @@ Silicon Valley engineering leader with extensive R&D experience in Artificial In
 - **Spotify:** [Listen here](https://open.spotify.com/show/4icwsteok7wCviZm6ePLZl)
 
 ## vLog
-- **What is latest in AI :** [Watch here](https://www.youtube.com/playlist?list=PLUoxJpkNeGtChjZ4oyKMQ5ywQeByNNB4b)
+- **What's latest in AI? :** [Watch here](https://www.youtube.com/playlist?list=PLUoxJpkNeGtChjZ4oyKMQ5ywQeByNNB4b)
 - **Diffusion Models :** [Watch here](https://www.youtube.com/watch?v=XtKyblwwBhU&list=PLUoxJpkNeGtBXENtervxTzg3aErpBjgvH)
 - **Deep Learning Basics:** [Watch here](https://www.youtube.com/watch?v=St7HV_WYSl0&list=PLUoxJpkNeGtDU2q_GBS6IlCndmbg61vv9)
 - **Leadership and Motivation:** [Watch here](https://www.youtube.com/watch?v=IreFLUDRhoc&list=PLUoxJpkNeGtBuGAKUuuG-3ydFqnOewy8b)
