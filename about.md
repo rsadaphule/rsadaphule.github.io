@@ -85,6 +85,8 @@
 - **Patents:**
   - US11645095 ·Contextual recommendations in digital content editing. -  Issued May 19, 2023
 
+---
+
 ## Work Experience
 
 ### Director of Engineering | Adobe | San Jose, CA (2017 – Present)
