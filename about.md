@@ -40,7 +40,7 @@ Silicon Valley engineering leader with extensive R&D experience in Artificial In
 ---
 
 ## Leadership Skills
-- Proven ability to build and mentor 20 globally distributed teams (300+ engineers) across the US, Norway, UK, and India.
+- Proven ability to build and mentor 20 globally distributed engineering teams (300+ engineers) across the US, Norway, UK, Japan, and India.
 - Expertise in stakeholder management, vision setting, and fostering startup cultures within organizations.
 - Strong focus on engineering excellence, agility, and innovation.
 
