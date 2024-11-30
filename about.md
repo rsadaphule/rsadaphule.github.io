@@ -7,7 +7,7 @@
 - **Apple Podcasts:** [Listen here](https://podcasts.apple.com/us/podcast/ravindra-sadaphules-podcast/id1749202752)
 - **Spotify:** [Listen here](https://open.spotify.com/show/4icwsteok7wCviZm6ePLZl)
 
-## LinkedIn Profile
+## Professional Network
 [Visit LinkedIn Profile](https://www.linkedin.com/in/ravinds/)
 
 ---
