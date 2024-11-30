@@ -74,6 +74,5 @@ Silicon Valley engineering leader with extensive R&D experience in Artificial In
 - **ML Engineering:** Powered generative text and computer vision-based search solutions for Adobe products.
 - **Scalable Architectures:** Developed scalable architectures for semantic search and multi-modal intent detection platforms.
 
----
+### Detailed Resume is available [here](https://drive.google.com/file/d/1DUOdc8ME5MtV-h5lq66tN_tQRGfEpGpn/view?usp=sharing)
 
-![Image](https://github.com/user-attachments/assets/aca471d5-063a-47a7-8e18-4de300f43a81)
