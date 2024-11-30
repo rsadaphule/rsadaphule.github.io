@@ -28,10 +28,10 @@ Silicon Valley engineering leader with extensive R&D experience in Artificial In
 - **University of San Francisco AI Advisor :** (https://profed.usfca.edu/ravindra-sadaphule.html)
 
 ## Awards, Patents, Credits
-- **Photoshop Developer Attribution** <img src="https://rsadaphule.github.io/assets/images/self_passport_photo.jpeg" alt="Ravindra Sadaphule" width="50" height="50" style=".rounded">
-- **Photoshop Developer Attribution** <img src="https://rsadaphule.github.io/assets/images/self_passport_photo.jpeg" alt="Ravindra Sadaphule" width="50" height="50" style=".rounded">
-- **Photoshop Developer Attribution** <img src="https://rsadaphule.github.io/assets/images/self_passport_photo.jpeg" alt="Ravindra Sadaphule" width="50" height="50" style=".rounded">
-- **Photoshop Developer Attribution** <img src="https://rsadaphule.github.io/assets/images/self_passport_photo.jpeg" alt="Ravindra Sadaphule" width="50" height="50" style=".rounded">
+- **Photoshop Developer Attribution** <img src="https://rsadaphule.github.io/assets/images/Award_Photoshop.jpeg" alt="Ravindra Sadaphule" width="50" height="50" style=".rounded">
+- **Bing User Search Engagement award** <img src="https://rsadaphule.github.io/assets/images/Award_bing.jpeg" alt="Ravindra Sadaphule" width="50" height="50" style=".rounded">
+- **MSN and Bing ship Award** <img src="https://rsadaphule.github.io/assets/images/Award_MSN_Bing_01.jpeg" alt="Ravindra Sadaphule" width="50" height="50" style=".rounded">
+- **Sharepoint Ship** <img src="https://rsadaphule.github.io/assets/images/Award_Sharpoint.jpeg" alt="Ravindra Sadaphule" width="50" height="50" style=".rounded">
 
 
 
