@@ -1,3 +1,4 @@
+Director of Engineering | LLM, VLM, Agentic RAG, Generative AI | Stanford GSB | M.S. (Artificial Intelligence) from Johns Hopkins | MBA (Information Technology) from American Public University | AI Technology Advisor
 <img src="https://rsadaphule.github.io/assets/images/self_passport_photo.jpeg" alt="Ravindra Sadaphule" width="200" height="200" style=".rounded">
 
 ## Blog Home Page
@@ -7,10 +8,16 @@
 - **Apple Podcasts:** [Listen here](https://podcasts.apple.com/us/podcast/ravindra-sadaphules-podcast/id1749202752)
 - **Spotify:** [Listen here](https://open.spotify.com/show/4icwsteok7wCviZm6ePLZl)
 
+## vLog
+-- What;s latest in AI : [Watch here]([https://www.youtube.com/playlist?list=PLUoxJpkNeGtChjZ4oyKMQ5ywQeByNNB4b]
+-- Diffusion Models : [Watch here](https://www.youtube.com/watch?v=XtKyblwwBhU&list=PLUoxJpkNeGtBXENtervxTzg3aErpBjgvH)
+-- Deep Learning Basics [Watch here](https://www.youtube.com/watch?v=St7HV_WYSl0&list=PLUoxJpkNeGtDU2q_GBS6IlCndmbg61vv9)
+-- Meadership and Motivation [Watch here](https://www.youtube.com/watch?v=IreFLUDRhoc&list=PLUoxJpkNeGtBuGAKUuuG-3ydFqnOewy8b)
+
 ## Professional Network
 [Visit LinkedIn Profile](https://www.linkedin.com/in/ravinds/)
 
----
+
 
 ## Career Summary
 Silicon Valley engineering leader with extensive R&D experience in Artificial Intelligence. Expertise in LLM, VLM, Multi-Modal AI, graph-based and agentic Retrieval-Augmented Generation (RAG), and Generative AI. Skilled in driving product innovation in AI-powered personalized assistance, search, and recommendations. Proven track record of developing scalable AI-powered GPU-based solutions, leading global teams, and transforming technology ecosystems.
