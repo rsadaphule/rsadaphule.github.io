@@ -1,3 +1,46 @@
-theme: jekyll-theme-minimal
-title: Ravindra Sadaphule's homepage
-description: Bookmark this to keep an eye on my project updates!
+title: "Evergreen Technologies LLC blog"
+author: "Evergreen Technologies LLC"
+description: "Blog on Technical and current trends in industry." # This will show up in places like twitter, linkedin, etc, if you share your sites url as a post.
+
+# Email / Social media user names used by the minima theme:
+# All of these are optional and can be removed or commented out
+email: "evergreenllc2020@gmail.com"
+twitter_username: "evergreenllc2020"
+github_username: "evergreenllc2020"
+linkedin_username: "evergreenllc2020"
+facebook_username: "evergreenllc2020"
+#flickr_username: "evergreenllc2020"
+#instagram_username: "evergreenllc2020"
+#pinterest_username: "evergreenllc2020"
+youtube_username: "evergreenllc2020"
+
+
+#########################################################################################
+######### Nothing below needs to be changed (unless you know what you're doing) #########
+#########################################################################################
+theme: "minima"
+
+google_analytics:
+  - G-6L6Y04R2JP
+
+
+rss: rss
+
+kramdown:
+  syntax_highlighter_opts:
+    disable: true
+    
+plugins:
+  - jekyll-feed
+  - jekyll-sitemap
+
+titles_from_headings:
+  strip_title: true
+  collections: true
+
+defaults:
+  - scope:
+      path: ""
+      type: post
+    values:
+      tags: Other
