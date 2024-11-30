@@ -1,5 +1,4 @@
-![image](https://rsadaphule.github.io/assets/images/self_passport_photo.jpeg)
-
+<img src="https://rsadaphule.github.io/assets/images/self_passport_photo.jpeg" alt="Ravindra Sadaphule" width="200" height="200">
 
 ## My Blog Home Page
 [Read my blog on Medium](https://medium.com/@rsadaphule)
