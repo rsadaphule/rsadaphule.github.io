@@ -1,4 +1,3 @@
-# Ravindra Sadaphule
 
 ![Ravindra Sadaphule](https://via.placeholder.com/150 "Ravindra Sadaphule")
 
