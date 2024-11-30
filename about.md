@@ -6,12 +6,11 @@
 - LEAD course from Stanford GSB 
 - MBA (Information Technology) from American Public University 
 - Also serves as AI Technology Advisor
+
 ---
-
 ## Digital Storytelling 
-
 ### Blog
-[Medium](https://medium.com/@rsadaphule)
+- **Medium Blog :**  [Read here](https://medium.com/@rsadaphule)
 
 ### Podcasts
 - **Apple Podcasts:** [Listen here](https://podcasts.apple.com/us/podcast/ravindra-sadaphules-podcast/id1749202752)
