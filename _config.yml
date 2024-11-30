@@ -44,3 +44,6 @@ defaults:
       type: post
     values:
       tags: Other
+
+# Custom permalink to set `about.md` as the homepage
+permalink: /about.md
