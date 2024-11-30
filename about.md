@@ -1,7 +1,4 @@
-
-
-# Ravindra Sadaphule
-![image](https://rsadaphule.github.com/assets/images/self_passport_photo.jpeg)
+![image](https://rsadaphule.github.io/assets/images/self_passport_photo.jpeg)
 
 
 ## My Blog Home Page
