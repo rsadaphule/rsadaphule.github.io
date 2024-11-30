@@ -1,7 +1,7 @@
 ### Summary
 
 - Director of Engineering | LLM, VLM, Agentic RAG, Generative AI | Stanford GSB | M.S. (Artificial Intelligence) from Johns Hopkins | MBA (Information Technology) from American Public University | AI Technology Advisor
----
+
 
 ## Career Summary
 - <img src="https://rsadaphule.github.io/assets/images/self_passport_photo.jpeg" alt="Ravindra Sadaphule" width="200" height="200" style=".rounded">
