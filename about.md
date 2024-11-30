@@ -1,8 +1,8 @@
 
 
 # Ravindra Sadaphule
+![image](https://rsadaphule.github.com/assets/images/self-passport-photo.jpg)
 
-![Ravindra Sadaphule](https://via.placeholder.com/150 "Ravindra Sadaphule")
 
 ## My Blog Home Page
 [Read my blog on Medium](https://medium.com/@rsadaphule)
