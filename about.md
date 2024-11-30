@@ -6,8 +6,7 @@
 - LEAD course from Stanford GSB 
 - MBA (Information Technology) from American Public University 
 - Also serves as AI Technology Advisor
-
-
+---
 ## Digital Storytelling 
 
 ### Blog
@@ -22,11 +21,11 @@
 - **Diffusion Models :** [Watch here](https://www.youtube.com/watch?v=XtKyblwwBhU&list=PLUoxJpkNeGtBXENtervxTzg3aErpBjgvH)
 - **Deep Learning Basics:** [Watch here](https://www.youtube.com/watch?v=St7HV_WYSl0&list=PLUoxJpkNeGtDU2q_GBS6IlCndmbg61vv9)
 - **Leadership and Motivation:** [Watch here](https://www.youtube.com/watch?v=IreFLUDRhoc&list=PLUoxJpkNeGtBuGAKUuuG-3ydFqnOewy8b)
-
+---
 ## Professional Network
 - **Visit LinkedIn Profile** (https://www.linkedin.com/in/ravinds/)
 - **University of San Francisco AI Advisor :** (https://profed.usfca.edu/ravindra-sadaphule.html)
-
+---
 ## Key Highlights in AI Field
 - **AI Platforms:** Built and led AI-powered RAG search and recommendation platforms for Adobe Express, Photoshop, and Adobe Stock.
 - **Agentic AI:** Powered “For You” Agentic AI recommendations using multi-modal intent detection, VLM, LLM, and creative knowledge graphs.
