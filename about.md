@@ -1,4 +1,4 @@
-### Summary
+## Summary
 - Director of Engineering | LLM, VLM, Agentic RAG, Generative AI | Stanford GSB | M.S. (Artificial Intelligence) from Johns Hopkins | MBA (Information Technology) from American Public University | AI Technology Advisor
 ---
 ## Career Summary
@@ -7,7 +7,7 @@
 
 ---
 
-## Digital storytelling 
+## Digital Storytelling 
 
 ### Blog
 [Medium](https://medium.com/@rsadaphule)
