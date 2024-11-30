@@ -21,11 +21,15 @@
 - **Diffusion Models :** [Watch here](https://www.youtube.com/watch?v=XtKyblwwBhU&list=PLUoxJpkNeGtBXENtervxTzg3aErpBjgvH)
 - **Deep Learning Basics:** [Watch here](https://www.youtube.com/watch?v=St7HV_WYSl0&list=PLUoxJpkNeGtDU2q_GBS6IlCndmbg61vv9)
 - **Leadership and Motivation:** [Watch here](https://www.youtube.com/watch?v=IreFLUDRhoc&list=PLUoxJpkNeGtBuGAKUuuG-3ydFqnOewy8b)
+
 ---
+
 ## Professional Network
-- **Visit LinkedIn Profile** (https://www.linkedin.com/in/ravinds/)
-- **University of San Francisco AI Advisor :** (https://profed.usfca.edu/ravindra-sadaphule.html)
+- [Visit LinkedIn Profile](https://www.linkedin.com/in/ravinds/)
+- [University of San Francisco AI Advisor](https://profed.usfca.edu/ravindra-sadaphule.html)
+
 ---
+
 ## Key Highlights in AI Field
 - **AI Platforms:** Built and led AI-powered RAG search and recommendation platforms for Adobe Express, Photoshop, and Adobe Stock.
 - **Agentic AI:** Powered “For You” Agentic AI recommendations using multi-modal intent detection, VLM, LLM, and creative knowledge graphs.
@@ -54,11 +58,15 @@
 
 ---
 
+## Code
+- [github repo](https://github.com/rsadaphule) 
+---
+
 ## Education and Certifications
-- **M.S. in Artificial Intelligence:** Johns Hopkins University.
-- **Stanford LEAD Certificate in Strategy and Innovation:** Stanford University Graduate School of Business.
-- **MBA in Information Technology:** American Public University.
-- **Certifications:** GANs, Machine Learning Specialization, Data Science.
+- **M.S. in Artificial Intelligence:** Johns Hopkins University
+- **Stanford LEAD Certificate in Strategy and Innovation:** Stanford University Graduate School of Business
+- **MBA in Information Technology:** American Public University
+- **Certifications:** GANs, Machine Learning Specialization, Data Science
 
 ---
 
@@ -75,7 +83,7 @@
 - **Patents:**
   - US11645095 ·Contextual recommendations in digital content editing. -  Issued May 19, 2023
 
-## Experience
+## Work Experience
 
 ### Director of Engineering | Adobe | San Jose, CA (2017 – Present)
 - **Strategic AI Vision:** Led engineering teams on a 0-1 roadmap for multi-agent AI-driven RAG-based search, recommendations, and creative knowledge graphs using GPU and CPU systems powered by VLM and LLM.
