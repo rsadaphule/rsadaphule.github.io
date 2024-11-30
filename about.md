@@ -1,6 +1,6 @@
 ### Summary
 Director of Engineering | LLM, VLM, Agentic RAG, Generative AI | Stanford GSB | M.S. (Artificial Intelligence) from Johns Hopkins | MBA (Information Technology) from American Public University | AI Technology Advisor
-
+---
 
 ## Career Summary
 <img src="https://rsadaphule.github.io/assets/images/self_passport_photo.jpeg" alt="Ravindra Sadaphule" width="200" height="200" style=".rounded">
@@ -8,14 +8,16 @@ Silicon Valley engineering leader with extensive R&D experience in Artificial In
 
 ---
 
-## Blog Home Page
+## Digital storytelling 
+
+### Blog
 [Medium](https://medium.com/@rsadaphule)
 
-## Podcasts
+### Podcasts
 - **Apple Podcasts:** [Listen here](https://podcasts.apple.com/us/podcast/ravindra-sadaphules-podcast/id1749202752)
 - **Spotify:** [Listen here](https://open.spotify.com/show/4icwsteok7wCviZm6ePLZl)
 
-## vLog
+### vLog
 - **What's latest in AI? :** [Watch here](https://www.youtube.com/playlist?list=PLUoxJpkNeGtChjZ4oyKMQ5ywQeByNNB4b)
 - **Diffusion Models :** [Watch here](https://www.youtube.com/watch?v=XtKyblwwBhU&list=PLUoxJpkNeGtBXENtervxTzg3aErpBjgvH)
 - **Deep Learning Basics:** [Watch here](https://www.youtube.com/watch?v=St7HV_WYSl0&list=PLUoxJpkNeGtDU2q_GBS6IlCndmbg61vv9)
@@ -52,9 +54,6 @@ Silicon Valley engineering leader with extensive R&D experience in Artificial In
 - **Other Tools:** Hadoop, Kubernetes, Mesos.
 
 ---
-## Awards, Patents, Credits
-
-
 
 ## Education and Certifications
 - **M.S. in Artificial Intelligence:** Johns Hopkins University.
