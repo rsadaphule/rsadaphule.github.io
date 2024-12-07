@@ -2,7 +2,7 @@
 <img src="https://rsadaphule.github.io/assets/images/self_passport_photo.jpeg" alt="Ravindra Sadaphule" width="200" height="200">
 - Silicon Valley engineering leader with extensive R&D experience in Artificial Intelligence. Expertise in LLM, VLM, Multi-Modal AI, graph-based and agentic Retrieval-Augmented Generation (RAG), and Generative AI. Skilled in driving product innovation in AI-powered personalized assistance, search, and recommendations. Proven track record of developing scalable AI-powered GPU-based solutions, leading global teams, and transforming technology ecosystems. 
 - Currently working as Director of Engineering at Adobe
-- M.S. (Artificial Intelligence) from Johns Hopkins 
+- M.S. (Artificial Intelligence) from Johns Hopkins [link](https://rsadaphule.github.io/assets/images/JHU%20Diploma.jpg)
 - LEAD course from Stanford GSB 
 - MBA (Information Technology) from American Public University 
 - Also serves as AI Technology Advisor
