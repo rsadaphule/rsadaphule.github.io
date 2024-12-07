@@ -96,7 +96,7 @@
 - **Scalable Architectures:** Developed scalable architectures for semantic search and multi-modal intent detection platforms.
 
 
-### Senior Engineer Manager | Intuit | Mountain View, CA (2016 – 2017)
+### Senior Engineering Manager | Intuit | Mountain View, CA (2016 – 2017)
 - Transformed QuickBooks Online technology using AWS-based microservices architecture.
 -	Designed deep learning-powered search solutions and sales growth platforms.
 -	Enhanced scalability, availability, and performance through innovative architecture.
