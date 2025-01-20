@@ -11,6 +11,7 @@
 ## Digital Storytelling 
 ### Blog
 - **Medium Blog :**  [Read here](https://medium.com/@rsadaphule)
+- **Substack Blog: ** [Read here](https://ravindrasadaphule.substack.com/)
 
 ### Podcasts
 - **Apple Podcasts:** [Listen here](https://podcasts.apple.com/us/podcast/ravindra-sadaphules-podcast/id1749202752)
