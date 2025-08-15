@@ -108,7 +108,7 @@
 -	Improved MSN homepage scalability using distributed caching and analytics platforms.
 -	Developed enterprise search for SharePoint and optimized performance of large-scale data systems.
 
-## Detailed Resume is available [here](https://drive.google.com/file/d/1DUOdc8ME5MtV-h5lq66tN_tQRGfEpGpn/view?usp=sharing)
+## Detailed Resume is available [here](https://drive.google.com/file/d/1Jhpfskj8et1wPbog1ype06RDg07B_vg9/view?usp=sharing)
 
 
  
