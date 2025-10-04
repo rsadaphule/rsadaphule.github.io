@@ -90,7 +90,7 @@
 
 ## Work Experience
 
-### Director of Engineering | Adobe | San Jose, CA (2017 – Present)
+### Senior Director of Engineering | Adobe | San Jose, CA (2017 – Present)
 - **Strategic AI Vision:** Led engineering teams on a 0-1 roadmap for multi-agent AI-driven RAG-based search, recommendations, and creative knowledge graphs using GPU and CPU systems powered by VLM and LLM.
 - **Infrastructure Transformation:** Designed and migrated the AI foundation platform from Mesos to Kubernetes, improving reusability, extensibility, maintainability, efficiency, and scalability.
 - **ML Engineering:** Powered generative text and computer vision-based search solutions for Adobe products.
