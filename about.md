@@ -1,6 +1,7 @@
 ## Career Summary
 <img src="https://rsadaphule.github.io/assets/images/self_passport_photo.jpeg" alt="Ravindra Sadaphule" width="200" height="200">
-- Silicon Valley engineering leader with extensive R&D experience in Artificial Intelligence. Expertise in LLM, VLM, Multi-Modal AI, graph-based and agentic Retrieval-Augmented Generation (RAG), and Generative AI. Skilled in driving product innovation in AI-powered personalized assistance, search, and recommendations. Proven track record of developing scalable AI-powered GPU-based solutions, leading global teams, and transforming technology ecosystems. 
+- Engineering leader with many years of building agentic AI systems at a billion-user scale. Leads a global ML engineering organization at Adobe across the US, Europe, and APAC, owning the agentic AI substrate consisting of creative knowledge graph, intent intelligence,  context engineering, semantic search, multimodal retrieval, learning-to-rank, and GPU inference services powering Creative Cloud, Acrobat, Express, Stock, and Lightroom. AI initiatives across Adobe and Microsoft have contributed to $2.5B+ in revenue impact. Hands-on with VLM/LLM/SLM fine-tuning (SFT, PPO, GRPO), multi-agent orchestration, RAG, and large-scale GPU inference using TensorRT and vLLM. Patents in multimodal retrieval, contextual ranking, and knowledge graph construction.<img width="468" height="114" alt="image" src="https://github.com/user-attachments/assets/1416a964-755f-471d-98bd-826d4c378f52" />
+
 - Currently working as Senior Director of Engineering at Adobe
 - M.S. (Artificial Intelligence) from Johns Hopkins [link](https://rsadaphule.github.io/assets/images/JHU%20Diploma.jpg)
 - LEAD course from Stanford GSB 
@@ -108,7 +109,7 @@
 -	Improved MSN homepage scalability using distributed caching and analytics platforms.
 -	Developed enterprise search for SharePoint and optimized performance of large-scale data systems.
 
-## Detailed Resume is available [here](https://drive.google.com/file/d/1Jhpfskj8et1wPbog1ype06RDg07B_vg9/view?usp=sharing)
+## Detailed Resume is available [here](https://drive.google.com/file/d/1rD6CVIGD4R_wVyoxHjB074-IyQPlXk3E/view?usp=drive_link)
 
 
  
